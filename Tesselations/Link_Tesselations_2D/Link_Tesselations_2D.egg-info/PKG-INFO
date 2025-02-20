@@ -1,0 +1,28 @@
+Metadata-Version: 2.2
+Name: Link_Tesselations_2D
+Version: 0.1
+Summary: A simple package to work with link chord diagram tesselations in 2D
+Home-page: https://github.com/yourusername/mypackage
+Author: Francisco Martinez-Figueroa
+Author-email: fmartinezfigueroa@usf.edu
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
+
+# MyPackage
+
+A simple example Python package that contains a few utility functions.
+
+## Installation
+
+To install this package, run:
+
+```bash
+pip install -e package_folder
